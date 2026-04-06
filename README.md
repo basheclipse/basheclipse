@@ -33,7 +33,7 @@ Bridging the gap between modern scripts and classic 5.25" floppies.
 Python-based experiments with vintage MP3 playback logic and minimalist terminal interfaces.
 
  Rebus:
-     r◐◓t = wheel = th•nk — logic by id3fix
+     /* r◐◓t = wheel = th•nk */ — logic by id3fix
 
  Connect:
     IRC: id3fix @ IRCnet / EFnet - sometimes
