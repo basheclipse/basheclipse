@@ -19,11 +19,12 @@
   |        KEY PROJECTS          |
   +------------------------------+
  ; SIDEXEC Player ;
+
 The crown jewel. High-performance, terminal-based C64 SID player for Linux.
-Tech: x86-64 Assembly core + minimal C wrapper, powered by sidplayfp and custom ASM playback.
-Features: Zero bloat. Plays SID files and raw ASM audio data with smooth terminal animations.
-Classic MOS 6581 sound from the Commodore 64 in your CLI.
-Purpose: SID playback system
+Tech: x86-64 assembly core with a minimal C wrapper, powered by sidplayfp and custom ASM playback routines.
+Features: Zero bloat. Plays SID files and raw audio data with smooth real-time terminal animations.
+Authentic MOS 6581 sound from the Commodore 64 delivered through a terminal interface.
+Purpose: High-performance SID playback system for the terminal.
 
  # C64-AutomizerMenu #
 A Bash-driven interface to manage the Commodore 1541 II disk drive.
