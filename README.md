@@ -18,8 +18,8 @@
   +------------------------------+
   |        KEY PROJECTS          |
   +------------------------------+
- ; SIDEXEC Player ;
 
+; SIDEXEC Player ;
 The crown jewel. High-performance, terminal-based C64 SID player for Linux.
 Tech: x86-64 assembly core with a minimal C wrapper, powered by sidplayfp and custom ASM playback routines.
 Features: Zero bloat. Plays SID files and raw audio data with smooth real-time terminal animations.
