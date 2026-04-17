@@ -9,7 +9,6 @@
 
      /* Turn away from doubt, follow your vision, and see it through */ 
 
-
   +------------------------------+
   |        SYSTEM STATUS         |
   +------------------------------+
