@@ -14,7 +14,6 @@
   +------------------------------+
     OS: FreeBSD | Linux | C64
     Focus: Low-level programming, IRC culture, retro-computing
-
   +------------------------------+
   |        KEY PROJECTS          |
   +------------------------------+
