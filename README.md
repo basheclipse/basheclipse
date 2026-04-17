@@ -24,15 +24,18 @@ The crown jewel. High-performance, terminal-based C64 SID player for Linux.
 Tech: x86-64 Assembly core + minimal C wrapper, powered by sidplayfp and custom ASM playback.
 Features: Zero bloat. Plays SID files and raw ASM audio data with smooth terminal animations.
 Classic MOS 6581 sound from the Commodore 64 in your CLI.
+Purpose: SID playback system
 
  # C64-AutomizerMenu #
 A Bash-driven interface to manage the Commodore 1541 II disk drive.
 Bridging the gap between modern scripts and classic 5.25" floppies.
+Purpose: disk automation tool
 
  # Cbr/Cbz Viewer #
 Python-based lightweight viewer for comic book archives (.cbr, .cbz).
 Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
 Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
+Purpose: comic archive viewer
 
 Projects: alive systems, maintained when needed
 
