@@ -34,6 +34,8 @@ Python-based lightweight viewer for comic book archives (.cbr, .cbz).
 Source code: https://git.sr.ht/~basheclipse/cbrcbz-reader
 Features: zoom, smooth page navigation, archive support, print individual pages or entire comics
 
+Projects: alive systems, maintained when needed
+
  Rebus:
      /* r◐◓t = wheel = th•nk */ — logic by id3fix
 
