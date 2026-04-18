@@ -42,7 +42,7 @@ Source: wait...
 Features: TUI playback, evdev input, gamepads, hotplug, ncurses UI
 Purpose: minimal console music player with controller support
 
-Projects: alive systems, maintained when needed, compatible with Legion Go handheld.
+Projects: alive systems, maintained when needed, runs on Legion Go handheld (tested here, may vary)
 
 Rebus:
      /* r◐◓t = wheel = th•nk */ — logic by id3fix
