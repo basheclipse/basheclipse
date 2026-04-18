@@ -37,7 +37,7 @@ Features: zoom, smooth page navigation, archive support, print individual pages 
 Purpose: comic archive viewer
 
  /* RetroMP3 player */
-Lightweight terminal MP3 player for Linux and FreeBSD. (experimental)
+Lightweight terminal MP3 player for Linux and FreeBSD (C, experimental)
 Source: wait...
 Features: TUI playback, evdev input, gamepads, hotplug, ncurses UI
 Purpose: minimal console music player with controller support
