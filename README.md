@@ -17,7 +17,7 @@ Turn away from doubt, follow your vision, and see it through
 ## SYSTEM PROFILE
 
 OS:
-- FreeBSD / OpenBSD / Gentoo Linux
+- FreeBSD / NetBSD / OpenBSD / Gentoo Linux
 
 Style:
 - terminal-first
