@@ -36,7 +36,7 @@ Focus:
 ## CORE PROJECTS
 
 ### Cu — BSD System Dashboard
-Terminal system monitor (BSD / Linux)
+Terminal system monitor (FreeBSD)
 
 - CPU / RAM / load monitoring
 - process viewer (top-like)
