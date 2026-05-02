@@ -12,6 +12,7 @@
   /*----------------------------*/
   /*        SYSTEM STATUS       */
   /*----------------------------*/
+
     OS: FreeBSD 14.4-RELEASE / OpenBSD 7.8 | Gentoo Linux
     Focus: Low-level programming, IRC culture, retro-computing
 
