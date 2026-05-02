@@ -9,15 +9,15 @@
 
      /* Turn away from doubt, follow your vision, and see it through */ 
 
-  +------------------------------+
+  *------------------------------*
   |        SYSTEM STATUS         |
-  +------------------------------+
+  *------------------------------*
     OS: FreeBSD 14.4-RELEASE / OpenBSD 7.8 | Gentoo Linux
     Focus: Low-level programming, IRC culture, retro-computing
 
-  +------------------------------+
+  *------------------------------*
   |        KEY PROJECTS          |
-  +------------------------------+
+  *------------------------------*
 ; SIDEXEC Player ;
 The crown jewel. High-performance, terminal-based C64 SID player for Linux.
 Tech: x86-64 assembly core with a minimal C wrapper, powered by sidplayfp and custom ASM playback routines.
