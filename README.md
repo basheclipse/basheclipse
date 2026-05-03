@@ -9,7 +9,7 @@
 
 Turn away from doubt, follow your vision, and see it through
 </pre>
-
+ — C6
 ## SYSTEM
 OS: FreeBSD / NetBSD / OpenBSD / Gentoo  
 STYLE: terminal-first / BSD / retro / IRC  
@@ -21,7 +21,7 @@ C / Python / ASM
 **Cu** — Linux & NetBSD system dashboard  
 ncurses / CPU / RAM / load / top-like
 
-**SIDEXEC** — C64 SID player  
+**SIDEXEC** — C64 SID player for Linux  
 ASM core + C wrapper
 
 **RetroMP3** — terminal MP3  
