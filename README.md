@@ -18,7 +18,7 @@ C / Python / ASM
 
 ## PROJECTS
 
-**Cu** — BSD system dashboard  
+**Cu** — Linux system dashboard  
 ncurses / CPU / RAM / load / top-like
 
 **SIDEXEC** — C64 SID player  
