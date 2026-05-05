@@ -27,7 +27,7 @@ id3fix
 OS:     FreeBSD / NetBSD / OpenBSD / Gentoo
 STYLE:  terminal-first / BSD / retro / IRC
 FOCUS:  low-level / minimal / demoscene
-LANG:   C / Python / ASM
+LANG:   Shell / C / Python / ASM
 
 
 [ PROJECTS ]
