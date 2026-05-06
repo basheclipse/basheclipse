@@ -14,7 +14,7 @@
 █                                                         █
 █   b4sh3cl1ps3 / id3fix                                  █
 █                                                         █
-█   "turn away from doubt, follow your vision"            █
+█     "turn away from doubt, follow your vision"          █
 █                                                         █
 ███████████████████████████████████████████████████████████
 
