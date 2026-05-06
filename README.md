@@ -34,16 +34,19 @@ LANG:   Shell / C / Python / ASM
 
 /* BandW-wm - minimalist, deterministic tiling window manager */
   C99 / Xlib / Linux / NetBSD
+  Status: Project will be available soon. Currently in testing phase.
 
 /* Cu - system dashboard (Linux / NetBSD) */
-  ncurses / CPU / RAM / load
-
+  ncurses / CPU / RAM / load 
+  Status: Project will be available soon. Currently in testing phase.
+ 
 ; SIDEXEC C64 SID player (Linux) ;
   ASM core + C wrapper
 
 # RetroMP3 - terminal MP3 player #
   ncurses / evdev / gamepad hotplug
-
+  Status:Project will be available soon. Currently in testing phase.
+ 
 # C64-AutomizerMenu - bash tool #
   Commodore 1541 II workflow
 
@@ -51,6 +54,10 @@ LANG:   Shell / C / Python / ASM
   Python / archive
   src: git.sr.ht/~basheclipse/cbrcbz-reader
 
+; nbsd-reverse-lab ; 
+  Educational reverse engineering lab for learning assembly, debugging, and binary analysis on NetBSD.
+  Status: Soon
+ 
 [ DESIGN ]
 
 - no bloat
