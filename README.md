@@ -35,19 +35,19 @@ LANG:   Shell / C / Python / ASM
 /* BandW-wm - minimalist, deterministic tiling window manager */
   C99 / Xlib / Linux / NetBSD
 
- /* Cu - system dashboard (Linux / NetBSD) */
+/* Cu - system dashboard (Linux / NetBSD) */
   ncurses / CPU / RAM / load
 
- ; SIDEXEC C64 SID player (Linux) ;
+; SIDEXEC C64 SID player (Linux) ;
   ASM core + C wrapper
 
- # RetroMP3 - terminal MP3 player #
+# RetroMP3 - terminal MP3 player #
   ncurses / evdev / gamepad hotplug
 
- # C64-AutomizerMenu - bash tool #
+# C64-AutomizerMenu - bash tool #
   Commodore 1541 II workflow
 
- # CBR/CBZ - comic reader #
+# CBR/CBZ - comic reader #
   Python / archive
   src: git.sr.ht/~basheclipse/cbrcbz-reader
 
