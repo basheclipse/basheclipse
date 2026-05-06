@@ -6,89 +6,97 @@
 <!-- JetBrains Mono -->
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
 </head>
+
 <body>
 
 <pre>
-b4sh3cl1ps3/id3fix
-==================
-
- _  _   _       _             _ _ _ _             _
-| || |_(_)_ _  | |_____ _ _  | | | | |__  ___ ___| |
-|__   _| | ' \ | / / -_) '_| | | | | '  \/ -_) -_) |
-   |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
-
-id3fix
-
-"Turn away from doubt, follow your vision, and see it through."
+███████████████████████████████████████████████████████████
+█                                                         █
+█   b4sh3cl1ps3 / id3fix                                  █
+█                                                         █
+█   "turn away from doubt, follow your vision"            █
+█                                                         █
+███████████████████████████████████████████████████████████
 
 
-[ SYSTEM ]
+[ SYSTEM NODE ]
+-----------------------------------------------------------
+OS      : NetBSD / FreeBSD / OpenBSD / Gentoo
+MODE    : terminal-first / low-level / deterministic
+STYLE   : BSD UNIX / demoscene / IRC culture
+FOCUS   : ASM / C / shell / reverse engineering
 
-OS:     FreeBSD / NetBSD / OpenBSD / Gentoo
-STYLE:  terminal-first / BSD / retro / IRC
-FOCUS:  low-level / minimal / demoscene
-LANG:   Shell / C / Python / ASM
+
+[ ACTIVE PROJECTS ]
+-----------------------------------------------------------
+
+>> BandW-wm
+   minimalist tiling window manager
+   C99 / Xlib / BSD compatible
+   STATUS : WIP (testing phase)
+
+>> Cu
+   system dashboard
+   ncurses / CPU / RAM / load monitoring
+   STATUS : WIP (testing phase)
+
+>> RetroMP3
+   terminal music player
+   evdev / ncurses / input layer
+   STATUS : WIP
+
+>> SIDEXEC
+   C64 SID engine
+   ASM core + C wrapper
+   STATUS : experimental
+
+>> nbsd-reverse-lab
+   NetBSD reverse engineering lab
+   gdb / objdump / truss / ELF analysis
+   STATUS : SOON
 
 
-[ PROJECTS ]
-
-/* BandW-wm - minimalist, deterministic tiling window manager */
-  C99 / Xlib / Linux / NetBSD
-  Status: Project will be available soon. Currently in testing phase.
-
-/* Cu - system dashboard (Linux / NetBSD) */
-  ncurses / CPU / RAM / load 
-  Status: Project will be available soon. Currently in testing phase.
- 
-; SIDEXEC C64 SID player (Linux) ;
-  ASM core + C wrapper
-
-# RetroMP3 - terminal MP3 player #
-  ncurses / evdev / gamepad hotplug
-  Status:Project will be available soon. Currently in testing phase.
- 
-# C64-AutomizerMenu - bash tool #
-  Commodore 1541 II workflow
-
-# CBR/CBZ - comic reader #
-  Python / archive
-  src: git.sr.ht/~basheclipse/cbrcbz-reader
-
-; nbsd-reverse-lab ; 
-  Educational reverse engineering lab for learning assembly, debugging, and binary analysis on NetBSD.
-  Status: Soon
- 
-[ DESIGN ]
-
+[ DESIGN RULESET ]
+-----------------------------------------------------------
 - no bloat
-- keyboard-driven
-- deterministic
-- unix philosophy
-- push limits, keep it minimal
-
-
-[ CULTURE ]
-
-IRCnet / EFnet
-BSD / UNIX
-demoscene / retro computing
+- keyboard driven
+- deterministic behavior
+- UNIX philosophy only
+- minimal UI, maximal control
+- everything is a tool
 
 
 [ NOTES ]
+-----------------------------------------------------------
+this is not a product
+this is a system fragment
 
-experimental codebase
-BSD-first / Linux-supported
-handheld testing (Legion Go)
+running on:
+- laptops (T400 class)
+- VMs
+- bare metal BSD systems
+
+
+[ CULTURE LAYER ]
+-----------------------------------------------------------
+IRCnet / EFnet
+BSD underground
+demoscene aesthetics
+retro computing mindset
+terminal-centric workflow
 
 
 [ REBUS ]
-
+-----------------------------------------------------------
 r..t = wheel = th..nk
+(interpretation required)
 
 
 [ CONNECT ]
+-----------------------------------------------------------
+IRC networks only
+no social media layer
 
-IRCnet / EFnet
 </pre>
 
 </body>
