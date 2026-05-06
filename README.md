@@ -47,8 +47,7 @@ LANG:   Shell / C / Python / ASM
 # C64-AutomizerMenu #
   bash tool
   Commodore 1541 II workflow
-# CBR/CBZ #
-  comic reader
+# CBR/CBZ # comic reader
   Python / archive
   src: git.sr.ht/~basheclipse/cbrcbz-reader
 
