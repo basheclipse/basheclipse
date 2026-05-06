@@ -30,7 +30,7 @@ FOCUS   : ASM / C / shell / reverse engineering
 [ ACTIVE PROJECTS ]
 -----------------------------------------------------------
 
->> BandW-wm
+>> bandw-wm
    minimalist tiling window manager
    C99 / Xlib / BSD compatible
    STATUS : WIP (testing phase)
